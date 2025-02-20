@@ -97,7 +97,7 @@ a {
         to bottom,
                 rgba(46, 47, 66, 0.7),
                 rgba(46, 47, 66, 0.7)),
-            url(/images/people-office.jpg);
+            url(../images/people-office.jpg);
 }
 
 h1 {
@@ -502,6 +502,7 @@ overflow: hidden;
         0px 1px 1px rgba(46, 47, 66, 0.16),
         0px 2px 1px rgba(46, 47, 66, 0.08);
         border-radius: 0px 0px 4px 4px;
+        background: #fff;
         transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
